@@ -1,0 +1,103 @@
+END - END FULL STACK DATASCIENTIST WORK -
+------------------
+1- EXTRACT THE DATASET FROM DB ( IF IT IS STRUCTURED DATA) ---> MACHINE L
+2- EXTRACT THE DATASET FROM WEBSITE, DIRECT CLIENT, SPEECH, WEBSCRAPPING, IMAGES, VIDEOS ( UNSTRUCTURED DATA) ----> AI 
+3- WRITE A QUEREY TO EXTRACT THE DATA BASED ON YOUR BUSINESS REQIREMENT
+4- DATASET EXTRACT FROM DB
+5- BUSINESS UNDERSTANDING // FEATURE UNDERSTANIN IS ESSENTIAL // YOU MIGHT TAKE 1 MONTH FOR THIS IF YOU HAVE ANY QUESTION YOU CAN ASK TO YOUR MANAGMENT
+6- START WORKING DATA IMPUTATION // DATA CLEANSING PART ( MIGHT TAKE 6 mont - 1yr ) 
+7- DECIDE WHICH IS DEPENDENT VARIABLE & WHICH ARE RELAVAT & IRRELAVANT ATTRIBUTE
+8 - ONCE YOU DECIDE D.V THEN YOU COME TO KNOW WHEATURE PROBLEM STATEMENT IS REGRESS / CLASI
+9- START WORKION ON EDA (VISUALIZATION). AS PER YOUR BUSINESS REQUIREMENT WHAT YOU NEED TO 
+TRY TO PLOT NORMAL DISRTIBUTION GRAPH BASED ON YOUR ATTRIBUTE UNDERSTAN ( MEAN - MD - MODE)
+10- DATA IS PROPER DISTRIBUTED
+-------------------------------------------- (7 Months)
+11- Dataset is ready ( i.v & i.v)
+12- Import all necessary library & import dataset
+13- Split the data into i.v & d.v
+14- train-test-test
+15- feature scaling required based on algorithm
+16- model building using regression or classif algorithm
+17- compare with test & prediction
+18- build cm & ac /// AUC & ROC curve for classification 
+19- k-fold cv
+20- grid search cv // random search cv
+21- you got to know optimla accurac based on highest %
+22- test with future data to complare live scnarion and prediction 
+22- joblib & Pickle 
+23 - write a connect using flask, django, docker, kubernates // azure clod 
+24- build the model your system ( amazon)
+25 - all the work what ever you done this data is realation to application server not production 
+26- application server is down but production should never be down ( 3-4 people ) 
+27 - application server work whatever you done it will run fine 
+same model when you push it to production everything ig getting error
+1- production db time error  
+2- security firewall error 
+3- producion server never be a open source (use licensed software) 
+
+=============================================
+23- commit to git or you can save all the file in 1 folder share to the manager
+24- flask application and fetch the model, joblib, pickle and write some function as   per the requiremet
+25- create http:// (host) cross check
+26- you need to test with future data
+furture data you need to enter to db and then try to run the model and compare with real time. ( test -1,  2, 3)
+==========================
+26- you can send http: link to your manager for checking or testing
+27- deployment
+28- if you dont have front end and designer then  you have 99% - not your task)
+29- permisin access for deply the model 
+30- just deploy into production 
+31- all of the codes suddenl get error 
+32- 10 day you have day and night with entire team 
+33- deployment will be done
+34- model maintaince ( yesterday data)
+
+35- keep update the model 1 week, 1 month, 1 daily)
+========================
+xml, pdf, webscraping, image, video
+nlp
+dl
+cloud
+======================
+- what ever the prediction is done by model
+- tomorw 10 record came to databse -- model store in db -- automatica new record predic is also done. 
+- tableau is connect to the db wher emode is store and prediction is stored
+- tableau live the automroe thse prediction will seen by your stack holder and customer 
+======================
+
+CI | CD PIPELINE -- 
+CONTINUUOUS INTEGRAATION | CONTINUOS DEPLOYEMNT -->
+---
+WHAT EVER THE MATERIAL YOU CAN FIND ALL ARE USED FOR WORKING PROFESSIONAL -->
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
