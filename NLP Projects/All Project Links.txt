@@ -1,0 +1,34 @@
+TASK - 54 ( BASIC NLP WITH NLTK )
+**********************************
+
+https://www.kaggle.com/alvations/basic-nlp-with-nltk
+
+TASK - 55 ( NLP WITH NLTK )
+**************************
+
+https://www.kaggle.com/pavansanagapati/simple-tutorial-nlp-nltk
+
+TASK - 56 (NLTK with sentiment analysis)
+***************************************
+
+https://www.kaggle.com/ngyptr/python-nltk-sentiment-analysis/comments#227011
+
+TASK - 57 (text classification using spacy)
+******************************************
+
+https://www.kaggle.com/poonaml/text-classification-using-spacy
+
+TASK - 58 (NLP basic with spacy)
+********************************
+
+https://www.kaggle.com/nulldata/intro-to-nlp-basics-with-spacy
+
+TASK - 59 (TEXT SUMMERIZATION USING SPACY)
+*******************************************
+
+https://www.kaggle.com/harunshimanto/summarization-with-wine-reviews-using-spacy 
+
+TASK-60 (CONSUMER COMPLAIN DATASET USING TFIDF) 
+***********************************************
+
+
