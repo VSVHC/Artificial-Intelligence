@@ -12,6 +12,7 @@ Deep learning is a subfield of artificial intelligence (AI) and machine learning
 - [Main Features](#main-features)
 - [Where learn](#where-learn)
 - [Indeed parts of deep learning](#indeed-parts-of-deep-learning)
+  
 
 ## Main Features
 Here are just a few of the things that Deep Learning does well:
@@ -24,8 +25,10 @@ The main features of Deep Learning include:
 3. **Hierarchical Representation Learning:** DL algorithms automatically learn hierarchical representations of data. Lower layers capture simple features, and higher layers combine these features to learn more abstract and complex representations.
 
 
+
 ## Where learn
 https://www.geeksforgeeks.org/deep-learning-tutorial/?ref=lbp
+
 
 
 ## Indeed parts of deep learning
