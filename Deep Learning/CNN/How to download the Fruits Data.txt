@@ -1,2 +1,0 @@
-1. To download the Image Run the 1st line of code in the .py file
-2. It will download the Zip file containing the different images of fruits.
