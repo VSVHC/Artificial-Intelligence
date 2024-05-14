@@ -1,1 +1,1 @@
-
+Implemented advanced image classification techniques leveraging MaxPooling, enhancing model performance by extracting key features and optimizing computational efficiency. Achieved superior accuracy in identifying complex patterns and objects within images, demonstrating expertise in deep learning and convolutional neural networks (CNNs).
